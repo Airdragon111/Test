@@ -1,0 +1,45 @@
+---
+twelfth_day_of_christmas:
+  gifts:
+    - type: drummers
+      action: drumming
+      count: 12
+      names: [Delaney, Daphne, Dahlia, Demi, Dorothy, Darcy, Danica, Dolly, Dora, Desiree, Diana, Darla]
+    - type: pipers
+      action: piping
+      count: 11
+      names: [Pacorro, Paddington, Paddy, Padgett, Padilla, Padma, Padme, Padraic, Pagan, Page, Paget]
+    - type: lords
+      action: leaping
+      count: 10
+      names: [Liam, Logan, Luke, Luis, Leon, Luka, Lennox, Leland, Leroy, Leif]
+    - type: ladies
+      action: dancing
+      count: 9
+      names: [Laney, Leyla, Lara, Lea, Laurel, Lorraine, Lesly, Letty, Lizbeth]
+    - type: maids
+      action: milking
+      count: 8
+      names: [Mia, Madison, Madeline, Mary, Melody, Maria, Margaret, Molly]
+    - type: swans
+      action: swimming
+      count: 7
+    - type: geese
+      action: laying
+      count: 6
+    - type: rings
+      material: gold
+      count: 5
+    - type: birds
+      subtype: calling
+      count: 4
+    - type: hens
+      subtype: french
+      count: 3
+    - type: doves
+      subtype: turtle
+      count: 2
+    - type: partridge
+      location: in a pear tree
+      count: 1
+...
